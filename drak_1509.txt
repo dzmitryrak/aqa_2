@@ -1,2 +1,2 @@
 Hello GIT
-Second line
+NEW BRANCH
